@@ -1,31 +1,34 @@
 {
-"response": [
-{
-"datetime": 1657855517,
-"filename": "PixelBlaster-CAF-5.3-lemonkebab-GAPPS-OFFICIAL.zip",
-"id": "f0af9e160e775027bf1dfeb859e23053", 
-"romtype": "OFFICIAL", 
-"size": 1944296679, 
-"url": "https://github.com/PixelBlaster-Releases/lemonkebab/releases/download/v5.3/PixelBlaster-CAF-5.3-lemonkebab-GAPPS-OFFICIAL.zip", 
-"version": "5.3"
-},
-{
-"datetime": 1654335576,
-"filename": "PixelBlaster-5.2-RMX1851-Gapps-OFFICIAL-20220604-1021.zip",
-"id": "6745122215d2be1356ad24d8ccc0843f", 
-"romtype": "OFFICIAL", 
-"size": 1724212008, 
-"url": "https://github.com/PixelBlaster-Releases/RMX1851/releases/download/v5.2/PixelBlaster-5.2-RMX1851-Gapps-OFFICIAL-20220604-1021.zip", 
-"version": "5.2"
-},
-{
-"datetime": 1655232934,
-"filename": "PixelBlaster-5.2-RMX2170-Gapps-OFFICIAL-20220615-0913.zip",
-"id": "946ea6877e54c22614defe7213ac04c7", 
-"romtype": "OFFICIAL", 
-"size": 1709766379, 
-"url": "https://github.com/PixelBlaster-Releases/RMX2170/releases/download/v5.2/PixelBlaster-5.2-RMX2170-Gapps-OFFICIAL-20220615-0913.zip", 
-"version": "5.2"
-}
-        ]
+  "response": [
+    {
+      "devicename": "OnePlus 8T/9R",
+      "datetime": 1657855517,
+      "filename": "PixelBlaster-CAF-5.3-lemonkebab-GAPPS-OFFICIAL.zip",
+      "id": "f0af9e160e775027bf1dfeb859e23053",
+      "romtype": "OFFICIAL",
+      "size": 1944296679,
+      "url": "https://github.com/PixelBlaster-Releases/lemonkebab/releases/download/v5.3/PixelBlaster-CAF-5.3-lemonkebab-GAPPS-OFFICIAL.zip",
+      "version": "5.3"
+    },
+    {
+      "devicename": "Realme 3 Pro",
+      "datetime": 1654335576,
+      "filename": "PixelBlaster-5.2-RMX1851-Gapps-OFFICIAL-20220604-1021.zip",
+      "id": "6745122215d2be1356ad24d8ccc0843f",
+      "romtype": "OFFICIAL",
+      "size": 1724212008,
+      "url": "https://github.com/PixelBlaster-Releases/RMX1851/releases/download/v5.2/PixelBlaster-5.2-RMX1851-Gapps-OFFICIAL-20220604-1021.zip",
+      "version": "5.2"
+    },
+    {
+      "devicename": "Realme 7 Pro",
+      "datetime": 1655232934,
+      "filename": "PixelBlaster-5.2-RMX2170-Gapps-OFFICIAL-20220615-0913.zip",
+      "id": "946ea6877e54c22614defe7213ac04c7",
+      "romtype": "OFFICIAL",
+      "size": 1709766379,
+      "url": "https://github.com/PixelBlaster-Releases/RMX2170/releases/download/v5.2/PixelBlaster-5.2-RMX2170-Gapps-OFFICIAL-20220615-0913.zip",
+      "version": "5.2"
+    }
+  ]
 }
