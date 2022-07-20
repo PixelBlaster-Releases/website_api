@@ -29,6 +29,16 @@
       "size": 1709766379,
       "url": "https://github.com/PixelBlaster-Releases/RMX2170/releases/download/v5.2/PixelBlaster-5.2-RMX2170-Gapps-OFFICIAL-20220615-0913.zip",
       "version": "5.2"
+    },
+    {
+      "devicename": "Poco X2 Pro",
+      "datetime": 1631466442,
+      "filename": "PixelBlaster_3.0_vayu-11.0-20210912-1707-OFFICIAL.zip",
+      "id": "abcf310275c397ba465b10eeb31169087bda841da1e41f927d72178702f8850b",
+      "romtype": "OFFICIAL",
+      "size": 1796222368,
+      "url": "https://github.com/PixelBlaster-Releases/vayu/releases/download/v3.0/PixelBlaster_3.0_vayu-11.0-20210912-1707-OFFICIAL.zip",
+      "version": "eleven"
     }
   ]
 }
