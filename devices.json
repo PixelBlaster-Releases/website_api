@@ -4,6 +4,11 @@
       "devicename": "Pixel 7a",
       "maintainer": "TheTablaster",
       "url": "https://github.com/PixelBlaster-Releases/lynx"
+    },
+    {
+      "devicename": "Pixel 7",
+      "maintainer": "TheTablaster",
+      "url": "https://github.com/PixelBlaster-Releases/panther"
     }
   ]
 }
